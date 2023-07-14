@@ -28,4 +28,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 - Submit a pull request.
 
 ## Author
-This project is authored by **Lilian Onyinyechukwu Anigbogu**
+This project is authored by **Anigbogu Onyinyechukwu Lilian** (AOL)
+
